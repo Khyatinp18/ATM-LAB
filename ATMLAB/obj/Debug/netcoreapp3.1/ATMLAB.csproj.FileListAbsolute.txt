@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\obj\Debug\netcoreapp3.1\ATMLAB.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\obj\Debug\netcoreapp3.1\ATMLAB.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\obj\Debug\netcoreapp3.1\ATMLAB.AssemblyInfo.cs
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.exe
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.deps.json
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.runtimeconfig.json
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.dll
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\bin\Debug\netcoreapp3.1\ATMLAB.pdb
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\obj\Debug\netcoreapp3.1\ATMLAB.dll
+C:\Users\nayan\source\repos\ATM LAB\ATMLAB\obj\Debug\netcoreapp3.1\ATMLAB.pdb
